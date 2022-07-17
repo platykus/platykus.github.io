@@ -1,7 +1,7 @@
 ---
 title: "Introduction"
 date: 2022-07-15T16:16:20-05:00
-draft: true
+draft: false
 ---
 
 Welcome to Platykus, my laboratory for exploring platform engineering on
