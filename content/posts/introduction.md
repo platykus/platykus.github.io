@@ -134,7 +134,7 @@ All of my professional and personal work is currently running in AWS, so my
 first effort will be towards creating Platykus on AWS and its EKS managed
 Kubernetes cluster service.
 
-My next steps will be the initial design, scope and implementation of Platykus
-on EKS with AWS as the hosting cloud vendor.
+My next steps will be the initial design and implementation of Platykus on EKS
+with AWS as the hosting cloud vendor.
 
 Thus begins Platykus. I hope you will join me for the journey and enjoy the ride!
