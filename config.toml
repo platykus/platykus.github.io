@@ -1,0 +1,4 @@
+baseURL = 'https://platykus.github.io/'
+languageCode = 'en-us'
+title = 'Platykus'
+theme = "ananke"
