@@ -104,15 +104,15 @@ effort helps you get further down the road, I will be pleased to have helped.
 
 ## What is its scope?
 
-I'm looking for a Platykus offering the following core features:
+I want Platykus to offer the following core features:
 
 - multi-tenancy with application isolation enforced by RBAC
 - on-demand, automatic scaling, up and down, of application and platform
   compute resources
-- on-demand provisioning of network resources such as load balancers, DNS
-  records, and TLS certificates
-- on-demand provision of storage resources such as block storage volumes and
-  object storage
+- on-demand provisioning of platform network resources such as load balancers,
+  DNS records, and TLS certificates
+- on-demand provision of platform storage resources such as block storage
+  volumes and object storage
 - application and platform monitoring/observability stack
 - application and platform secrets management services
 - application and platform resource quotas and budgets
